@@ -71092,7 +71092,7 @@ angular.module('mm.addons.mod_workshop')
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "kvc.moodle.moodlemobile",
+    "app_id" : "kvc.eva.smartapp",
     "appname": "KVC Moodle Mobile",
     "desktopappname": "Moodle Desktop",
     "versioncode" : "2021",
@@ -71105,7 +71105,7 @@ angular.module('mm.core')
     "demo_sites": {},
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://lms.kvc.ac.th",
+    "siteurl": "http://eva.kvc.ac.th",
     "multisitesdisplay": "select",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",

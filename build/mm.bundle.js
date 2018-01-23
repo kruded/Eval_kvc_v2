@@ -71093,7 +71093,7 @@ angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
     "app_id" : "com.moodle.moodlemobile",
-    "appname": "kvc.pre.vnet",
+    "appname": "KVC Smart Pre V-net",
     "desktopappname": "kvc.pre.vnet.moobile.app",
     "versioncode" : "2021",
     "versionname" : "1.0.2",

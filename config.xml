@@ -4,7 +4,7 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.moodle.moodlemobile"
         versionCode = "20210"
-        version   = "3.4.0">
+        version   = "1.0.2">
     <name>KVC Pre-VNET</name>
 
     <description>

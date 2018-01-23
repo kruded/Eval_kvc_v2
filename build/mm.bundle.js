@@ -71093,7 +71093,7 @@ angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
     "app_id" : "kvc.eva.smartapp",
-    "appname": "KVC Moodle Mobile",
+    "appname": "EVA Mobile App",
     "desktopappname": "Moodle Desktop",
     "versioncode" : "2021",
     "versionname" : "3.4.0",

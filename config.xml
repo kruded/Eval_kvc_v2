@@ -2,7 +2,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile.eva"
+        id        = "kvc.pre.vnet.moobile.app"
         versionCode = "20210"
         version   = "1.0.2">
     <name>KVC Smart Pre V-net</name>
